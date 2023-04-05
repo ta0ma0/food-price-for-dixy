@@ -1,0 +1,5 @@
+[MySQL] 
+host=x.x.x.x
+user=user
+password=pa$$worD
+database=db_name
